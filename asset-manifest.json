@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hack-ip-web/static/css/main.073c9b0a.css",
-    "main.js": "/hack-ip-web/static/js/main.98a54685.js",
+    "main.js": "/hack-ip-web/static/js/main.af4462a4.js",
     "static/js/787.1c518b15.chunk.js": "/hack-ip-web/static/js/787.1c518b15.chunk.js",
     "index.html": "/hack-ip-web/index.html",
     "main.073c9b0a.css.map": "/hack-ip-web/static/css/main.073c9b0a.css.map",
-    "main.98a54685.js.map": "/hack-ip-web/static/js/main.98a54685.js.map",
+    "main.af4462a4.js.map": "/hack-ip-web/static/js/main.af4462a4.js.map",
     "787.1c518b15.chunk.js.map": "/hack-ip-web/static/js/787.1c518b15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.98a54685.js"
+    "static/js/main.af4462a4.js"
   ]
 }
