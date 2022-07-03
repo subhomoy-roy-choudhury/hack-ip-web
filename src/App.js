@@ -1,6 +1,6 @@
 import './App.css';
 import SystemDetails from './components/SystemDetails/SystemDetails.js';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function Test() {
   return (
@@ -12,10 +12,11 @@ function Test() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/hack-ip-web/">
       <Routes>
-        <Route path="/hack-ip-web/" element={<Test />} />
-        <Route path="/hack-ip-web/details/:encoded_string" element={<SystemDetails />} />
+        <Route path="" element={<Test />} />
+        <Route path="details" element={<Test />} />
+        <Route path="details/:encoded_string" element={<SystemDetails />} />
         {/* <Route path="/search" element={<SearchPage />} /> */}
         {/* <Route path="*" element={<Error />} /> */}
       </Routes>
