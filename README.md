@@ -1,3 +1,7 @@
+#Sample URL (Github Pages):-
+
+`https://subhomoy-roy-choudhury.github.io/hack-ip-web/#/details/eydtYWNoaW5lJzogJ0FNRDY0JywgJ3Byb2Nlc3Nvcic6ICdBTUQ2NCBGYW1pbHkgMjMgTW9kZWwgMjQgU3RlcHBpbmcgMSwgQXV0aGVudGljQU1EJywgJ3JlbGVhc2UnOiAnMTAnLCAndmVyc2lvbic6ICcxMC4wLjIyMDAwJywgJ2hvc3RuYW1lJzogJzEwLjAuMjIwMDAnLCAnaXAtYWRkcmVzcyc6ICcyMjMuMjIzLjE0Mi4yNDEnLCAnY2l0eSc6ICdLb2xrYXRhJywgJ3JlZ2lvbic6ICdXZXN0IEJlbmdhbCcsICdjb3VudHJ5JzogJ0lOJywgJ2xvY2F0aW9uJzogJzIyLjU2MjYsODguMzYzMCcsICduZXR3b3JrX3Byb3ZpZGVyJzogJ0FTNDU3NzUgV0lTSCBORVQgUFJJVkFURSBMSU1JVEVEJywgJ3Bvc3RhbF9jb2RlJzogJzcwMDAwNicsICd0aW1lem9uZSc6ICdBc2lhL0tvbGthdGEnfQ%3D%3D`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

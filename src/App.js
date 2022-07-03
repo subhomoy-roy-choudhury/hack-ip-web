@@ -1,10 +1,10 @@
 import './App.css';
 import SystemDetails from './components/SystemDetails/SystemDetails.js';
-import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <Router basename="/hack-ip-web/">
+    <Router>
       <Routes>
         <Route path="details/:encoded_string" element={<SystemDetails />} />
         {/* <Route path="/search" element={<SearchPage />} /> */}
