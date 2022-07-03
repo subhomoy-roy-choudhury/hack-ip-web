@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/details/:encoded_string" element={<SystemDetails />} />
+        <Route path="/hack-ip-web/details/:encoded_string" element={<SystemDetails />} />
         {/* <Route path="/search" element={<SearchPage />} /> */}
         {/* <Route path="*" element={<Error />} /> */}
       </Routes>
